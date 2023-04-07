@@ -6,7 +6,7 @@ This is a basic Python package which can be used to pull NFL gamelog data into s
 
 ## Installing
 
-This package) is build with [Poetry](https://python-poetry.org/). To install this package, install Poetry, pull this repository, and run `make install`.
+This package is built with [Poetry](https://python-poetry.org/). To install this package, install Poetry, pull this repository, and run `make install`.
 
 ## Basic Usage
 
